@@ -1,5 +1,5 @@
-# <h1 align="center">👋 Hi, I'm Mohabbat Rehman (MohabbatRJ)</h1>
-<h3 align="center">✨ Frontend Developer & UI/UX Enthusiast from Pakistan</h3>
+# <h1 align="center">👋 Hi, I'm Mohabbat Rasool (MohabbatRJ)</h1>
+<h3 align="center">✨ Frontend Developer </h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mohabbatrj&label=Profile%20views&color=0e75b6&style=flat" alt="mohabbatrj" /> 
